@@ -30,6 +30,8 @@ use App\Models\DutyPayTypes;
 use App\Models\DutyPay;
 use App\Models\User;
 
+
+use sync;
 //use OwenIt\Auditing\Log;
 
 //use Venturecraft\Revisionable\Revision;
