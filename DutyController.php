@@ -17,7 +17,7 @@ Use DB;
 use Validator;
 use Auth;
 
-
+use karl;
 
 use App\Models\Duty;
 use App\Models\Contact;
